@@ -1,6 +1,6 @@
 #                                                                                              Teck-Nights
 
-# Loan Eligibility Prediction System: Revolutionizing Loan Approvals with AI 🏦
+# Loan Eligibility Prediction System: 
 Introduction
 The process of approving loans is often complex and time-consuming. Dream Housing Finance sought an automated system to predict loan eligibility efficiently. This project introduces a machine learning-powered web application that streamlines loan approvals while providing real-time insights via interactive dashboards.
 
